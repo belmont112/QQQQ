@@ -9,6 +9,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  *
  * @author sidhu376
  */
+//modified 07-26-19
 public class Student {
     
     private String name;
