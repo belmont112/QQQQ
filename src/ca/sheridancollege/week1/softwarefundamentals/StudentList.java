@@ -13,7 +13,7 @@ public class StudentList {
     
     public static void main(String[] args) {
         
-        Student [] sList= new Student[5];
+        Student [] sList= new Student[3];
         
         for (int i=0;i<sList.length;i++)
         {
